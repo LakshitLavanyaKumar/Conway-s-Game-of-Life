@@ -1,7 +1,7 @@
 # Conway's Game of Life Web App
 
 ## Table of Contents
-* [About Conway's Game of Life](#about-conway's-game-of-life)
+* [About Conway Game of Life](#about-conway-game-of-life)
 * [Rules of the Game](#rules-of-the-game)
 * [Key Features](#key-features)
 * [Tech Stack Used](#tech-stack-used)
@@ -9,7 +9,7 @@
 * [Some Famous Patterns](#some-famous-patterns)
 
 
-## About Conway's Game of Life
+## About Conway Game of Life
 Welcome to the Conway's Game of Life Web App! This React-based interactive application allows you to explore the fascinating world of cellular automata through John Conway's famous Game of Life. Create intricate patterns, watch them evolve, and enjoy the mesmerizing dynamics that emerge.
 
 ## Rules of the Game
@@ -48,7 +48,7 @@ Generate a random starting layout of living cells to kickstart the simulation. T
 
 - Clone the repository by opening your terminal and navigating to the directory where you want to clone the repository. Then, run the following command:
 ```bash
-  git clone 
+  git clone https://github.com/LakshitLavanyaKumar/Conway-s-Game-of-Life.git
 ```
 
 - Navigate to the App Directory:
